@@ -15,4 +15,10 @@ print "number is prime"
 else
 print "number is composite"
                                               palindrome                      
-                                        
+p=enter the word to check whether a string is palindrome or not
+a=strrev[p]
+if p==a
+print "palindrome"
+else 
+print "not palindrome"
+                                                fibonacci series
