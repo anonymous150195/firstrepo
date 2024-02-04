@@ -1,1 +1,37 @@
+                                                                                Eric
+Eric is a common favorite IDE for Python editing. 
+Eric makes use of Scintilla, a source code editing component used in a number of different IDEs and editors, and which is also available as the stand-alone SciTE editor.
+The features of Eric are similar to other IDEs: brace matching, code completion, a class browser, integrated unit tests, and so on.
+It also has a Qt form preview function, which is useful if you're developing a Qt GUI for your application. I personally like the integrated task list function.
+If you're new to IDEs as a concept, Eric can take some time to master, and you might question whether learning an IDE specific to just Python is worth the time investment. 
+I find Eric to be a great, lighweight, yet full-featured programming environment, and learning it can help the quality of your code and gets you familiar with conventions common to all IDEs.
 
+                                                                                 Pyzo
+
+Pyzo is a Qt-based editor with a built-in file browser, project overview, log, debugger, indentation tracker, and much more. 
+It considers itself an alternative to MATLAB, although actually it's a useful editor for any Python project, not just those dealing with advanced mathematics and science.
+Because it's built with Qt, your workspace is highly configurable. You can move panels to suit your workflow or to simulate a specific IDE layout you're used to. 
+The ability to show and hide tool panels based on what information you want in front of you can be a useful way of helping yourself focus,
+and because you can assign nearly every option to a specific key combination, you can keep your Pyzo editor fluid and dynamic.
+Pyzo is a simple IDE, it's not a whole ecosystem the way Eclipse is. 
+It doesn't have a plugin architecture (aside from being open source and therefore inherently hackable), and its main goal is to stay out of your way except to help keep track of your code.
+
+                                                                                 Spyder
+
+The Spyder IDE, like Pyzo, targets data scientists as its audience. Unlike Pyzo, Spyder is a true environment all its own.
+It's a big, complex, and feature-rich application with panels to display rendered data, code output, logs, history, and much more. 
+It can be downloaded on its own, or as part of a bundle along with the Anaconda distribution, a popular programming toolkit used by Python and R programmers.
+
+                                                                                  PyCharm
+
+PyCharm is another popular Python editor. There are two versions of PyCharm, and the free and open source edition of PyCharm is the community edition, available under the Apache 2.0 license.
+PyCharm features pretty much everything one might hope for in an IDE: integrated unit testing, code inspection, integrated version control, code refactoring tools, a variety of tools for project navigation, 
+as well as the highlighting and automated completion features you would expect with any IDE.
+To me, the main drawback of PyCharm is its open core model. Many of PyCharm's advanced features are not available under an open source license, and for me, that's a deal breaker. 
+However, if you're not looking to use advanced features included in the closed source verion, having the features left out may leave PyCharm as a simple and relatively lightweight choice for Python editing.
+
+                                                                                      IDLE
+
+IDLE is intended to be a simple IDE and suitable for beginners, especially in an educational environment. To that end, it is cross-platform, and avoids feature clutter.
+It is packaged as an optional part of the Python packaging with many Linux distributions.
+It is completely written in Python and the Tkinter GUI toolkit
