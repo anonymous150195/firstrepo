@@ -14,7 +14,8 @@ if(n/2==0)
 print "number is prime"
 else
 print "number is composite"
-                                              palindrome                      
+                                              palindrome  
+
 p=enter the word to check whether a string is palindrome or not
 a=strrev[p]
 if p==a
@@ -22,3 +23,12 @@ print "palindrome"
 else 
 print "not palindrome"
                                                 fibonacci series
+a=-1
+b=0
+c=1
+n=enter the limit to print fibonacci series
+for i in range[n]
+c=a+b
+print "c"
+a=b
+b=c
