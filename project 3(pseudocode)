@@ -5,9 +5,9 @@ else
 print "odd"
 
                                             swapping two number
+c=a
 a=b
 b=c
-a=c
    print a,b
                                              prime number
 if(n/2==0)
