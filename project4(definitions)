@@ -1,0 +1,13 @@
+PSEUDOCODE  -   Pseudocode is a detailed yet readable description of what a computer program or algorithm should do. It is written in a formal yet
+                readable style that uses a natural syntax and formatting so it can be easily
+                understood by programmers and others involved in the development process.
+
+DRY RUN     -    A dry run is the process of a programmer manually working through their code to trace the value of variables. 
+
+MODULUS OPERATOR   -  The modulus operator, sometimes also called the remainder operator or integer remainder operator works on integers (and integer expressions) 
+                      and yields the remainder when the first operand is divided by the second.
+                      In Python, the modulus operator is a percent sign ( % ). The syntax is the same as for other operators.
+
+ DATA TYPES       -    Char,int,float,boolean
+
+ ARRAY           -  Continuous memory allocation.Array index starts from zero.
