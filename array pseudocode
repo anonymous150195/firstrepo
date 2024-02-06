@@ -1,0 +1,17 @@
+     string reverse using 1D array
+
+char a[10],b[10]
+strcpy (a,b)
+strrev (b)
+print original string: a
+print reversed string :b
+
+        find common elements in array
+
+i=enter the limit
+a[i]=enter number for a
+b[i]=enter number for b
+  if a[i]=b[i]
+print a[i]
+ i++
+
