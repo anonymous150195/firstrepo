@@ -24,8 +24,9 @@ else
 print "not palindrome"
                                                 fibonacci series
 a=-1
-b=0
-c=1
+b=1
+c=0
+i=1
 n=enter the limit to print fibonacci series
 for i in range[n]
 c=a+b
@@ -33,4 +34,33 @@ print "c"
 a=b
 b=c
 
-                                                    
+
+                                                  LEAP YEAR
+
+n=enter the year
+if n % 4 == 0
+    print leap year
+else
+    print not a leap year
+
+
+                                                    VOWELS
+
+a= enter the alphabet to check the whether it is a vowel or consonent
+if a='a' or 'e' or 'i' or 'o' or 'u' and 'A' or 'E' or 'I' or 'O' or 'U'
+ print a is a vowel
+else
+  print a is a consonent
+
+                                                    SUM OF 5 GIVEN NUMBERS
+
+S=0
+i=1
+for i in range[5]
+  a = enter the number to add
+s=+a
+print s
+
+
+
+  
