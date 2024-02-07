@@ -68,7 +68,15 @@ OBJECT       -   Objects are variables that contain data and functions that can 
 TYPES OF MEMORY  -  The memory manager is responsible for allocating memory to Python objects and tracking which objects are currently in use.
                     Python has two types of memory that it uses: stack memory and heap memory. 
                     Stack memory is used for storing function call frames and local variables.
-                    Heap memory
+                    Heap memory in Python primarily maintains all objects and data structures,
+
+ENCAPSULATION  -  Binding of methods and function into a single unit.
+
+ABSTRACTION    -  Abstraction in OOPS is used to hide unnecessary information and display only necessary information to the users interacting.
+
+INHERITANCE   -  class derived from another class or base class.
+
+
 
 
 
