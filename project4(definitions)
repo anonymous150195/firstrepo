@@ -58,6 +58,17 @@ LOOP WITH IN CONSTRUCTS   -   An array is an ordered list of values that you ref
                               For example, consider an array called emp , which contains employees' names indexed by their numerical employee number.
                               So emp[0] would be employee number zero, emp[1] employee number one, and so on.
 
+FUNCTION     -    A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function.
+
+
+CLASS       -   a class describes the contents of the objects that belong to it
+
+OBJECT       -   Objects are variables that contain data and functions that can be used to manipulate the data.
+
+TYPES OF MEMORY  -  The memory manager is responsible for allocating memory to Python objects and tracking which objects are currently in use.
+                    Python has two types of memory that it uses: stack memory and heap memory. 
+                    Stack memory is used for storing function call frames and local variables.
+                    Heap memory
 
 
 
