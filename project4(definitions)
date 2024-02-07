@@ -11,3 +11,59 @@ MODULUS OPERATOR   -  The modulus operator, sometimes also called the remainder 
  DATA TYPES       -    Char,int,float,boolean
 
  ARRAY           -  Continuous memory allocation.Array index starts from zero.
+
+ BIT             -   A bit (binary digit) is the smallest unit of data that a computer can process and store.
+                     A bit is always in one of two physical states, similar to an on/off light switch. 
+                     The state is represented by a single binary value, usually a 0 or 1.
+                     However, the state might also be represented by yes/no, on/off or true/false.
+
+BYTE             -   In most computer systems, a byte is a unit of data that is eight binary digits long. 
+                     A byte is the unit most computers use to represent a character such as a letter, number or typographic symbol. 
+                     Each byte can hold a string of bits that need to be used in a larger unit for application purposes.
+
+BINARY          -     Binary describes a numbering scheme in which there are only two possible values for each digit -- 0 or 1 -- and is 
+                      the basis for all binary code used in computing systems.
+
+ASCII VALUE      -     ASCII stands for American Standard Code for Information Interchange.
+                       Below is the ASCII character table, including descriptions of the first 32 characters.
+                       he range of ASCII values for uppercase letters A-Z is 65-90, and the range for lowercase letters a-z is 97-122.
+
+HOW 0 AND 1 IS REPRESENTED?      1 is true or "on", and 0 is false or "off". 
+
+
+STORING A VALUE IN COMPUTER?            Each individual data value in a data set is usually stored using one or more bytes of memory.
+
+DECIMAL TO BINARY      -    Divide the number by 2.
+                            Get the integer quotient for the next iteration.
+                            Get the remainder for the binary digit.
+                            Repeat the above steps until the quotient is equal to 0.
+
+BINARY TO DECIMAL      -    Step-1 First we need to multiply 0 with 2 and add the 1st digit in binary number. 
+                            Step-2 Now use the result of above step and multiply with 2 and add the second digit of binary number. 
+                            The same step 2 is repeated until there will be no digit left.
+                            The final result will be the resultant decimal number.
+
+CONSTRUCTS           -      In computer programming, a language construct is "a syntactically allowable part of a program that may be
+                            formed from one or more lexical tokens in accordance with the rules of the programming language", 
+                            as defined by in the ISO/IEC 2382 standard
+
+LOOPS                -       Loops are a programming element that repeat a portion of code a set number of times until the desired process is complete.
+                             Repetitive tasks are common in programming, and loops are essential to save time and minimize errors.
+
+NESTED IF           -       A nested if in C is an if statement that is the target of another if statement.
+                            Nested if statements mean an if statement inside another if statement. 
+                            Yes, C allow us to nested if statements within if statements, i.e, we can place an if statement inside another if statement.
+
+LOOP WITH IN CONSTRUCTS   -   An array is an ordered list of values that you refer to with a name and an index.
+                              For example, consider an array called emp , which contains employees' names indexed by their numerical employee number.
+                              So emp[0] would be employee number zero, emp[1] employee number one, and so on.
+
+
+
+
+
+
+
+
+
+
