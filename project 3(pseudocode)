@@ -10,7 +10,10 @@ a=b
 b=c
    print a,b
                                              prime number
-if(n/2==0)
+
+i=2
+n=enter the number to check prime or not 
+if(n%i==0)
 print "number is prime"
 else
 print "number is composite"
@@ -61,6 +64,13 @@ for i in range[5]
 s=+a
 print s
 
+                                                     FACTORIAL OF A NUMBER
 
+i=1
+f=1
+n=enter the number to find factorial
+for i in range n
+ f=f*i
+print f
 
   
