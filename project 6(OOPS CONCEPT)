@@ -1,1 +1,52 @@
+                               Single Inheritance
+
+class Shape:
+   def area(self):
+     pass
+Class Rectangle (shape):
+   def area (self):
+    length = int (input("Enter the length:"))
+    breadth = int (input ("Enter the breadth:"))
+     result = length * breadth
+print (result)
+obj = Rectangle()
+obj.area()
+
+                                   Multiple Inheritance
+
+ class A:
+    def A (self):
+    print ("This is A class")
+
+Class B:
+      def B (self):
+      print ("This is B class")
+
+class c ( A, B):
+    def C (self):
+      print ("This is A and B class")
+obj = c()
+obj.A()
+obj.B()
+obj.C()
+
+                                      Multi-level Inheritance
+
+class Employee:
+  def getdata(self):
+  name="iniya"
+  print (name)
+class designation( Employee):
+  def desigdata (self):
+  designation="Manager"
+  print (designation)
+class salary (designation):
+   def saldata (self):
+   salary ="50000"
+   print (salary)
+obj=salary()
+obj.getdata()
+obj.desigdata()
+obj.saldata()
+
 
