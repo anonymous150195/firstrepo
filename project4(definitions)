@@ -76,6 +76,48 @@ ABSTRACTION    -  Abstraction in OOPS is used to hide unnecessary information an
 
 INHERITANCE   -  class derived from another class or base class.
 
+CONSTRUCTOR    - Constructors in Python is a special class method for creating and initializing an object instance at that class. 
+                 In Python every class has a constructor; it's not required to define explicitly.
+                 The purpose of the constructor is to construct an object and assign a value to the object's members.
+
+SINGLETON PATTERN  -  A Singleton pattern in python is a design pattern that allows you to create just one instance of a class, 
+                      throughout the lifetime of a program.
+
+BUILT IN CLASS IN PYTHON - abs()	delattr()	hash()
+                           bin()	enumerate()	input()
+                           bool()	eval()	int()
+                           breakpoint()	exec()	isinstance()
+                           bytearray()	filter()	issubclass()
+
+ADDING AND DELETING ITEMS IN LIST - append(): Adds an element to the end of a list.
+                                    insert(): Adds an element to a specific index in the list.
+                                    remove(): Removes the first occurrence of an element from a list.
+                                    pop(): Removes and returns an element from a specific index in the list.
+
+ENUM -  An Enum is a set of symbolic names bound to unique values. 
+        They are similar to global variables, but they offer a more useful repr() , grouping, type-safety, and a few other features.
+        They are most useful when you have a variable that can take one of a limited selection of values.
+
+DOM - The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web.
+
+THIS operator - 
+
+
+SERIALIZATION - Serialization refers to the process of converting a data object (e.g., Python objects, Tensorflow models) into a format that allows
+                us to store or transmit the data and then recreate the object
+                when needed using the reverse process of deserialization.
+
+BUFFER READER -  The following article provides an outline for Python BufferedReader.
+                 It retrieves data from a source and stores it in an internal memory queue.
+                 This allows subsequent read operations to efficiently retrieve data from the buffered queue
+                 instead of directly accessing the underlying reader stream.
+
+GARBAGE COLLECTION - Python's main garbage collection method is a reference counting approach. Each object in Python has a reference count,
+                     which shows how many other objects are referencing it. 
+                     There are no longer any references to an object when its reference count approaches zero, enabling safe deallocation.
+
+CONSTRUCTOR OVERLOADING - Python does not support constructor overloading. If you try to overload the constructor,
+                          the last implementation will be executed each time.
 
 
 
